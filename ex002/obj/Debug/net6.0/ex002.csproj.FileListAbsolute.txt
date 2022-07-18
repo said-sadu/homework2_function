@@ -1,0 +1,5 @@
+/Users/saidsadullaev/Desktop/lesson 2/ex002/obj/Debug/net6.0/ex002.csproj.AssemblyReference.cache
+/Users/saidsadullaev/Desktop/lesson 2/ex002/obj/Debug/net6.0/ex002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saidsadullaev/Desktop/lesson 2/ex002/obj/Debug/net6.0/ex002.AssemblyInfoInputs.cache
+/Users/saidsadullaev/Desktop/lesson 2/ex002/obj/Debug/net6.0/ex002.AssemblyInfo.cs
+/Users/saidsadullaev/Desktop/lesson 2/ex002/obj/Debug/net6.0/ex002.csproj.CoreCompileInputs.cache
