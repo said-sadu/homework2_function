@@ -1,15 +1,9 @@
-﻿Console.Clear();
-int number = new Random().Next(10, 100);
-//Console.WriteLine("number: {number}");
-Console.WriteLine($"number: {number}");
-int x = number / 10;
-int y = number % 10;
-
-if (x>y)
+﻿Console.WriteLine("Введите трехзначное число.\nВыхода из программы команда Exit.");
+while (true)
 {
-    Console.WriteLine(x);
-}
-else
-{
-    Console.WriteLine(y);
+    string input = Console.ReadLine();
+    if (!input.Equals("exit"))
+        Console.WriteLine("{0}->{1}", input, input[1]);
+    else
+        break;
 }
